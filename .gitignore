@@ -1,0 +1,12 @@
+# Pastas de sessão e sistema
+Sessao_Whatsapp/
+__pycache__/
+.vscode/
+
+# Ficheiros de dados (Privacidade e Segurança)
+log_envios.csv
+*.xlsx
+*.csv
+
+# Outros
+*.log
