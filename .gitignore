@@ -10,3 +10,6 @@ log_envios.csv
 
 # Outros
 *.log
+Sessao_Whatsapp/
+__pycache__/
+*.pyc
